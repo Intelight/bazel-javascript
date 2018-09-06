@@ -27,7 +27,6 @@ JsLibrary = provider(fields = [
     "library_dir",
 ])
 
-# Collection of js libraries that can be imported and
 JsPackage = provider(
     fields = [
         # JsLibrary object for the
